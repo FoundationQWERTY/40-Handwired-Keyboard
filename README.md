@@ -1,2 +1,2 @@
 # 40-Handwired-Keyboard
-Simple 47 key keyboard using an rp2040 
+Simple 47 key keyboard using an rp2040 and QMK MSYS
